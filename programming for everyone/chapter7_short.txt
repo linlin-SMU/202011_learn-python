@@ -1,0 +1,21 @@
+X-DSPAM-Confidence: 0.7623
+X-DSPAM-Confidence: 0.0000
+X-DSPAM-Confidence: 0.8953
+X-DSPAM-Confidence: 0.1243
+X-DSPAM-Confidence: 0.9749
+X-DSPAM-Confidence: 0.0846
+X-DSPAM-Processed:
+X-DSPAM-Processed: Sat Jan  5 09:14:16 2008
+X-DSPAM-Processed: Mon Jan  5 09:14:16 2008
+X-DSPAM-Processed: Thurs Jan  5 09:14:16 2008
+X-DSPAM-Processed: Sat Jan  5 09:14:16 2008
+X-DSPAM-Processed: Wed Jan  5 09:14:16 2008
+X-DSPAM-Processed: Sun Jan  5 09:14:16 2008
+Subject: [sakai] svn commit: r39667 - in site-manage/branches/sakai_2-5-x/site-manage-tool/tool/src: java/org/sakaiproject/site/tool webapp/vm/sitesetup
+X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
+X-Content-Type-Message-Body: text/plain; charset=UTF-8
+Content-Type: text/plain; charset=UTF-8
+X-DSPAM-Confidence: 0.0000
+X-DSPAM-Confidence: 0.8953
+X-DSPAM-Confidence: 0.1243
+X-DSPAM-Confidence: 0.9749
