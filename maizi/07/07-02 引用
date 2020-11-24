@@ -1,0 +1,8 @@
+a = 10
+b = a
+# a为引用, 列表也是存了一堆对象--ex 10，里面的元素在对应位置，但是list的id不一样
+# 浅拷贝
+list.copy()
+
+# 深拷贝
+copy.deepcopy(ha)
